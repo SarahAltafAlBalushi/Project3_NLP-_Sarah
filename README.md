@@ -7,9 +7,7 @@ A simple web application that performs sentiment analysis on a provided URL. Thi
 - Displays sentiment analysis results including:
   - Polarity
   - Agreement
-  - Subjectivity
   - Confidence
-  - Irony
 - Simple, responsive interface.
 - Handles invalid URLs and shows appropriate alerts.
 - Technologies Used
